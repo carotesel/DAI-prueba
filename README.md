@@ -1,4 +1,4 @@
 # DAI-prueba
 Prueba para aprender git
 
-# aprendiendo a usar xd+
+# aprendiendo a usarlo xd
